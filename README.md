@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Simon</h1>
+<h3 align="center">Machine Learning Enthusiastic</h3>
 
 # 💻 Tech Stack
 ## Languages
