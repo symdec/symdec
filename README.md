@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">Machine Learning Enthusiastic</h3>
+<h3 align="center">A Machine Learning Enthusiastic</h3>
+
+I'm a French ML Developer currently working on Speech-to-Text and LLM-based use cases, mainly using open-source projects.  
+I aspire to work on AI projects for causes that make sense to me, such as education, environment and social issues ; or simply making ethical AI tools available to everyone.
 
 # 💻 Tech Stack
 ## Languages
@@ -16,7 +19,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 
 ## Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -34,10 +36,10 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ## Devops / Monitoring
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
- ![ELK](https://img.shields.io/badge/ELK-E6007A?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-E6007A?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ## Other Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
