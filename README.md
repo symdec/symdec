@@ -10,10 +10,13 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1f425f?style=for-the-badge&logoColor=white&logo=gnubash)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Data Science / Machine Learning
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Dataflow](https://img.shields.io/badge/Dataflow-326CE5?style=for-the-badge&logo=googledataflow&logoColor=black)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-1646f5?style=for-the-badge&logo=a&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -26,7 +29,8 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ## Cloud
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-%23DD0031.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ## Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,8 +46,11 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ![ELK](https://img.shields.io/badge/ELK-E6007A?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ## Other Frameworks
+![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/gradio-F7931E.svg?style=for-the-badge&logo=&logoColor=white)
 
 
 # 📊 GitHub Stats
