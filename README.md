@@ -51,7 +51,7 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/gradio-F7931E.svg?style=for-the-badge&logo=&logoColor=white)
-
+![Tkinter](https://img.shields.io/badge/tkinter-FDEE21.svg?style=for-the-badge&logo=python&logoColor=white)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kyn76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
