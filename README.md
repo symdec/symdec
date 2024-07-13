@@ -6,7 +6,7 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 
 # 🕹️ Main Projects
 ## Python
-- ![Image Flashcards](https://github.com/kyn76/image_flashcards) : graphical memory flashcards engine, quickly building from a directory containing images 
+- ![Image Flashcards](https://github.com/kyn76/image_flashcards) : Graphical memory flashcards engine, quickly building from a directory containing images 
 - ![TyMon](https://github.com/kyn76/tymon) : Wiktionary etymology scraper for French and English words 
 
 ## Rust
