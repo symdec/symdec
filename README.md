@@ -6,11 +6,11 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 
 # 🕹️ Main Projects
 ## Python
-- ![Image Flashcards](https://github.com/kyn76/image_flashcards) : Graphical memory flashcards engine, quickly building from a directory containing images 
-- ![TyMon](https://github.com/kyn76/tymon) : Wiktionary etymology scraper for French and English words 
+- ![Image Flashcards](https://github.com/symdec/image_flashcards) : Graphical memory flashcards engine, quickly building from a directory containing images 
+- ![TyMon](https://github.com/symdec/tymon) : Wiktionary etymology scraper for French and English words 
 
 ## Rust
-![Rust in action](https://github.com/kyn76/rust-in-action) : Mini-projects to elevate Rust skills 
+![Rust in action](https://github.com/symdec/rust-in-action) : Mini-projects to elevate Rust skills 
 
 # 💻 Tech Stack
 ## Languages
@@ -62,14 +62,14 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ![Tkinter](https://img.shields.io/badge/tkinter-FDEE21.svg?style=for-the-badge&logo=python&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kyn76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kyn76&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyn76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=symdec&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=symdec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=symdec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kyn76&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=symdec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kyn76&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=symdec&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
