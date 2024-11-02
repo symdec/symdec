@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A Machine Learning Enthusiastic</h3>
+<h3 align="center">A Machine Learning Enthusiastic & Full Stack Dev</h3>
 
-I'm a French ML Developer currently working on Speech-to-Text and LLM-based use cases, mainly using open-source projects.  
+I'm a French full stack developer currently working on Speech-to-Text and LLM-based use cases, mainly using open-source projects.  
 I aspire to work on AI projects for causes that make sense to me, such as education, environment and social issues ; or simply making ethical AI tools available to everyone.
 
 # 🕹️ Main Projects
