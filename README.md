@@ -47,6 +47,9 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ## Java Frameworks
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
+## Front-end Frameworks
+![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 ## Cloud
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-%23DD0031.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
