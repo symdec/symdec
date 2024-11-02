@@ -7,10 +7,12 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 # 🕹️ Main Projects
 ## Python
 - ![Image Flashcards](https://github.com/symdec/image_flashcards) : Graphical memory flashcards engine, quickly building from a directory containing images 
-- ![TyMon](https://github.com/symdec/tymon) : Wiktionary etymology scraper for French and English words 
 
 ## Rust
-![Rust in action](https://github.com/symdec/rust-in-action) : Mini-projects to elevate Rust skills 
+- ![Rust in action](https://github.com/symdec/rust-in-action) : Mini-projects to elevate Rust skills 
+
+# 🤗 OSS Contributions
+- ![Verba](https://github.com/weaviate/verba) : Retrieval Augmented Generation (RAG) chatbot powered by Weaviate 
 
 # 💻 Tech Stack
 ## Languages
