@@ -5,9 +5,13 @@ I'm a French research engineer currently working on Privacy-Preserving Data Synt
 
 # 💫 Dev Interests
 - Privacy-Preserving Data Synthesis (PPDS)
-- Open-source Large & Small Language Models (LLMs / SLMs), Speech-to-Text (STT) & Text-to-Speech (TTS)
-- Frameworks & architectures to improve LLM workflows : Retrieval-Augmented Generation (RAG), agentic programming, etc.
+
+- Natural Language Processing (NLP)
+  - Open-source Large & Small Language Models (LLMs / SLMs), Speech-to-Text (STT) & Text-to-Speech (TTS)
+  - Frameworks & architectures to improve LLM workflows : Retrieval-Augmented Generation (RAG), agentic programming, etc.
+    
 - Memory, mnemonic and trivia applications & games
+  
 - Software project architecture, code robustness
 
 # 🕹️ Main Projects
