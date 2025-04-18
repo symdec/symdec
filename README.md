@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A Machine Learning Enthusiastic & Full Stack Dev</h3>
+<h1 align="center">Hi 🍵, I'm Simon</h1>
+<h3 align="center">A Machine Learning Enthusiastic & Dev</h3>
 
-I'm a French full stack developer currently working on Speech-to-Text and LLM-based use cases, mainly using open-source projects.  
-I aspire to work on AI projects for causes that make sense to me, such as education, environment and social issues ; or simply making ethical AI tools available to everyone.
+I'm a French research engineer currently working on Privacy-Preserving Data Synthesis.
+
+# 💫 Dev Interests
+- Privacy-Preserving Data Synthesis (PPDS)
+- Open-source Large & Small Language Models (LLMs / SLMs), Speech-to-Text (STT) & Text-to-Speech (TTS)
+- Frameworks & architectures to improve LLM workflows : Retrieval-Augmented Generation (RAG), agentic programming, etc.
+- Memory, mnemonic and trivia applications & games
+- Software project architecture, code robustness
 
 # 🕹️ Main Projects
 ## Python
@@ -15,32 +21,25 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 - ![Verba](https://github.com/weaviate/verba) : Retrieval Augmented Generation (RAG) chatbot powered by Weaviate 
 
 # 💻 Tech Stack
-## Languages
+## Main Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23008080.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1f425f?style=for-the-badge&logoColor=white&logo=gnubash)
 
-## Data Science / Machine Learning
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+## Python Frameworks & Tools
 
-## Deep Learning
+### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-## Python Frameworks
+### Misc.
 ![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/gradio-F7931E.svg?style=for-the-badge&logo=&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-FDEE21.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## Java Frameworks
@@ -71,6 +70,4 @@ I aspire to work on AI projects for causes that make sense to me, such as educat
 ![](https://github-profile-trophy.vercel.app/?username=symdec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=symdec&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=symdec&color=3293a8)
