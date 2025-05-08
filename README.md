@@ -16,7 +16,8 @@ I'm a French research engineer currently working on Privacy-Preserving Data Synt
 
 # 🕹️ Main Projects
 ## Python
-- ![Image Flashcards](https://github.com/symdec/image_flashcards) : Graphical memory flashcards engine, quickly building from a directory containing images 
+- ![Image Flashcards](https://github.com/symdec/image_flashcards) : Graphical memory flashcards engine, quickly building from a directory containing images
+- ![Deez2fy](https://github.com/symdec/deez2fy) : Deezer to Spotify playlist converter 
 
 ## Rust
 - ![Rust in action](https://github.com/symdec/rust-in-action) : Mini-projects to elevate Rust skills 
